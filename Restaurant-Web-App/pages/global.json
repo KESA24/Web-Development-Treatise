@@ -1,0 +1,10 @@
+{
+    "title": "KESAZ Coffee House",
+    "description": "Welcome to Coffee Heaven, Enjoy our premium selction of the best coffee from  around the world",
+    "hours":[
+        {"day": "Mon - Fri", "time": "6am to 10pm"},
+        {"day": "Saturday", "time": "7am to 11pm"},
+        {"day": "Sunday", "time": "7am to 9pm"}
+    ]
+        
+}

@@ -1,0 +1,136 @@
+
+.loginBox {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 350px;
+    height: 420px;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    background: rgba(0, 0, 0, .5);
+}
+.user{
+    width: 20px;
+    height:20px;
+    border-radius: 50%;
+    overflow: hidden;
+    position:absolute;
+    top: (-50%);
+    left: (50%-50px);
+}
+.loginBox h2{
+    margin:0;
+    padding: 0 0 20px;
+    color: #ffffff;
+    text-align: center;
+}
+.loginBox p{
+    margin:0;
+    padding:0;
+    font-weight: bold;
+    color: #ffffff;
+}
+.loginBox input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.loginBox input[type="text"], 
+.loginBox input[type="password"]{
+    border:none;
+    border-bottom:1px solid #ffffff;
+    background: transparent;
+    outline:none;
+    height: 40px;
+    color: #ffffff;
+    font-size: 16px;
+}
+::placeholder{
+    color:rbga(255,255,255,.5);
+}
+.loginBox input[type="submit"]{
+    border: none;
+    outline: none;
+    height: 40px; 
+    color: #ffffff;
+    font-size: 16px;
+    background: #ff7f00;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.loginBox input[type="submit"]:hover{
+    background: #f9a04f;
+    color: #262626;
+}
+.loginBox a{
+    color:#ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding:1%;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  }
+
+  /*Signup link*/
+  .newuser{
+      margin-top: 55px;
+      font-weight: lighter;
+      margin-left: 1px;
+  }
+  .newuser a{
+      color: black;
+      text-decoration: underline ;
+      
+  }
+  
+  
+/*For the registration form*/ 
+
+* {box-sizing: border-box}
+
+.input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+.input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+.registerbtn[type=submit]{
+background-color: #ff7f00;
+width:33.3%;
+opacity: 0.9;
+padding: 16px 20px;
+margin:8px 0px;
+border-radius: 30px;
+color: #ffffff;
+cursor: pointer;
+text-align: center;
+position: center;
+
+}
+
+.signin {
+    background-color: #f1f1f1;
+    text-align: center;
+}
+/*For Driver Register
+
+

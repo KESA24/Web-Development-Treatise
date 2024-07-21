@@ -1,0 +1,19 @@
+{
+    "hero":{
+        "header": "Drink and Eat Healthy <br> Coffee and Natural Foods",
+        "subtext": " A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country.",
+        "bg_image": "images/barista.jpg"
+    },
+
+    "about":{
+        "header": "Welcome to Kesaz Coffee House ",
+        "subtext": "On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word and and the Little Blind Text should turn around and return to its own, safe country. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.",
+        "bg_image": "images/abt.jpg",
+        "images": [
+            {"image": "images/spec2.jpg", "caption": "Coffee"},
+            {"image": "images/spec1.jpg", "caption": "Soup"},
+            {"image": "images/spec3.jpg", "caption": "Pancakes"}
+
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+.divArray {
+    margin: auto;
+    width: 50%;
+  }
+  
+  
+  
+  .divArray > hr {
+    color: #21ce99;
+    background-color:#21ce99;
+    margin: 0;
+  
+  }
+
+  .arrayElement {
+      margin-top: 15px;
+  }
+
+  .arrayElement >li {
+      list-style: none;
+  }

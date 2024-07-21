@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "tasks": [
+    {
+      "text": "Dentist Appointment",
+      "day": "March 4th at 6pm",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Dentist Appointment",
+      "day": "March 10th at  3pm",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Go to Dentist",
+      "day": "March 10th at  3pm",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Dentist Appointment",
+      "day": "March 3rd at 7pm",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}

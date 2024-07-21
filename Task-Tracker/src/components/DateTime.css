@@ -1,0 +1,12 @@
+.DateTime {
+  margin: auto;
+  width: 50%;
+  
+}
+
+.DateTime > hr {
+  color: #21ce99;
+  background-color:#21ce99;
+  margin: 0;
+
+}
